@@ -7,6 +7,11 @@ h1 {
 p {
  color: DarkSlateGrey;
 }
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+}
 * {
   box-sizing: border-box;
 }
