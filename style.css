@@ -17,14 +17,13 @@ ul {
  margin: 0;
  padding: 0;
 } 
- background-color: #A9A9A9;
-}
 li {
  float: left;
 }
 li a {
  display: block;
  padding: 8px;
+ background-color: #A9A9A9;
 }
 li a:hover {
  background-color: #696969;
