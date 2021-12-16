@@ -1,3 +1,9 @@
- <link>
-<body style+"background-color:powderblue:"> 
-</link>
+body {
+ background-color: beige;
+}
+h1 {
+ color: blue;
+}
+p {
+ color: red;
+}
