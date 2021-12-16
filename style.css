@@ -2,16 +2,19 @@
   * {
     box-sizing: border-box;
   }
+
 body {
-  font-family: Helvetica, sans,serif;
+  font-family: Helvetica, sans-serif;
   }
+
 header {
   background-colour:#F0F8FF;
   padding: 30px;
   text-align: centre;
   font-size:35px;
-  color:black;
+  color: black;
   }
+
 nav {
   float: left;
   width: 40%;
@@ -19,6 +22,7 @@ nav {
   background: #ADD8E6
     padding: 20px;
   }
+
 article {
   float: right;
   padding:20px;
@@ -26,12 +30,10 @@ article {
   background-colour: #F0FFFF;
   height: 300px;
   }
+
 section::after {
   content: "";
   display: table;
   clear: both;
   }
-img {
-  float: left;
-}
 </style>
