@@ -16,12 +16,24 @@ header {
   font-size:35px;
   color:black;
   }
-article {
+nav {
   float: left;
+  width: 40%;
+  height: 300px;
+  background: #ADD8E6
+    padding: 20px;
+  }
+article {
+  float: right;
   padding:20px;
   width60%;
   background-colour: #F0FFFF;
   height: 300px;
+  }
+section::after {
+  content: "";
+  display: table;
+  clear: both;
   }
 img {
   float: left;
@@ -29,16 +41,16 @@ img {
 </style>
 </head>
 <body>
-
-  <body style="background-color:beige;">
   <header>
       <h1>Personal Information</h1>
     </header>
 </div>
+<section>
+  <nav>
 <img src="thepugs.jpg" width="516" height="400">
 <img src="me.jpg" width="516" height="400">
-  
-<section>
+  </nav>
+
 <article>
   <p><h3>Name: Jennafer Allen</p>
     <p>Student Number:s3933580</p>
