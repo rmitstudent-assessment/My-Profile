@@ -11,6 +11,10 @@ p {
   box-sizing: border-box;
 }
 
+.box {
+ height: 500px:
+}
+
 .img-container {
   float: left;
   width: 33.33%;
