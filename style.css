@@ -1,11 +1,11 @@
 body {
- background-color: beige;
+ background-color: AntiqueWhite;
 }
 h1 {
- color: blue;
+ color: DodgerBlue;
 }
 p {
- color: red;
+ color: DarkSlateGrey;
 }
 * {
   box-sizing: border-box;
