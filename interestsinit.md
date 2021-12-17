@@ -1,5 +1,6 @@
 <html>
 <head>
+ <title>Interests in IT</title>
  <link rel="stylesheet" href="1styles.css">
 </head>
 <body>
