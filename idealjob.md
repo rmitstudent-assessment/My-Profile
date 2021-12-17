@@ -1,4 +1,4 @@
-**<html>
+<html>
 <head>
  <link rel="stylesheet" href="2style.css">
 </head>
@@ -12,7 +12,7 @@
 </ul>
  <header>
 <h1>Ideal Job</h1>
-             </header>**
+             </header>
 
 <h3>Job Advertisement</h3>
 <p>Click on the link for my ideal job: <a href="https://www.seek.com.au/job/55255356?type=standout#searchRequestToken=42ef42ab-cfbf-418d-83d4-85f68e0a6b20">Service Delivery Manger Commonwealth Bank Australia</a> </p>
