@@ -1,5 +1,5 @@
 body {
- background-color: SkyBlue;
+ background-color: black;
 }
 .header {
  padding: 30px;
@@ -7,10 +7,22 @@ body {
  background: #FFF0F5;
 }
 h1 {
- color: SteelBlue;
+ color: white;
+}
+}
+h2 {
+ color: white;
+}
+}
+h3 {
+ color: white;
+}
+}
+h4 {
+ color: white;
 }
 p {
- color: Grey;
+ color: white;
 }
 ul {
  list-style-type: none;
