@@ -11,7 +11,7 @@
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/personalprofile">Personal Profile</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/projectidea">Project Idea</a></li>
 </ul>
-
+ 
  <header>
 <h1>Ideal Job</h1>
              </header>
