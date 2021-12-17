@@ -1,4 +1,18 @@
+**<html>
+<head>
+ <link rel="stylesheet" href="2style.css">
+</head>
+<body>
+<ul>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/idealjob">Ideal Job</a></li>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/personalprofile">Personal Profile</a></li>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/projectidea">Project Idea</a></li>
+</ul>
+ <header>
 <h1>Ideal Job</h1>
+             </header>**
 
 <h3>Job Advertisement</h3>
 <p>Click on the link for my ideal job: <a href="https://www.seek.com.au/job/55255356?type=standout#searchRequestToken=42ef42ab-cfbf-418d-83d4-85f68e0a6b20">Service Delivery Manger Commonwealth Bank Australia</a> </p>
