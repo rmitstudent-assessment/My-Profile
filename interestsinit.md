@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
  <link rel="stylesheet" href="1styles.css">
@@ -7,7 +6,7 @@
 
  <div class="header>
 <h1>Interests In IT</h1>
-             </div>?
+             </div>
 
 <h3>What is you interest in IT? When did your interest start?</h3>
 <p>My interest in IT started throughout my career within the Australian Defence Force. I was initially employed as a radio operator, whereby my trade was operating analogue radios. During this period, the technology of the in-service radio transitioned from analogue to digital. To stay relevant in my profession, I quickly started growing my fundamental IT theoretical knowledge and practical skills. My skills deepened at the height of my ADF career as I began building and managing ad-hoc networks, primarily Linux based, and providing basic cyber advice in fields like signature reduction. Furthermore, I was responsible for the overall system and equipment governance and training in areas where I was deemed a subject matter expert. Leaving the ADF raised many questions about what was next, and I found myself drawn to continuing on the path of IT. I am now happily employed as an SFIA level 3, IT administrator. Years of on-the-job training to develop solutions to complex problems have evolved a specific passion of mine, anonymity in a modern world where everything is moving online. For example, my home cameras run on a Raspberry Pi to control where the data is sent, removing the need for a third party to store my data. </p>
