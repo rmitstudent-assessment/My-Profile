@@ -27,6 +27,7 @@ h4 {
 }
 p {
  color: white;
+ text-align: centre;
 }
 h3.round3 {
   border: 2px solid #87CEEB;
