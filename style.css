@@ -1,7 +1,6 @@
 body {
  background-color: #4682B4;
 }
-
 header {
   background-color: #87CEEB;
   padding: 30px;
@@ -10,16 +9,16 @@ header {
   color: white;
 }
 h1 {
- color: white;
  text-align: centre;
+ color: white;
 }
 h2 {
+ text-align: centre; 
  color: white;
- text-align: centre;
 }
 h3 {
- color: white;
- text-align: centre;
+  text-align: centre;
+  color: white;
 }
 h4 {
  color: white;
