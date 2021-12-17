@@ -1,3 +1,23 @@
 body {
-  background-color: lightblue;
+ background-color: black;
+}
+.header {
+ padding: 40px;
+ text-align: centre;
+ background: #FFF0F5;
+}
+h1 {
+ color: white;
+}
+h2 {
+ color: white;
+}
+h3 {
+ color: white;
+}
+h4 {
+ color: white;
+}
+p {
+ color: white;
 }
