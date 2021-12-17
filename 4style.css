@@ -43,3 +43,22 @@ li a {
 li a:hover {
  background-color: #696969;
 }
+* {
+  box-sizing: border-box;
+}
+
+.box {
+ height: 200px:
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
