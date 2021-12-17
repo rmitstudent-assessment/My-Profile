@@ -25,6 +25,11 @@ h4 {
 p {
  color: white;
 }
+p.round3 {
+  border: 2px solid #87CEEB;
+  border-radius: 12px;
+  padding: 5px;
+}
 ul {
  list-style-type: none;
  margin: 0;
