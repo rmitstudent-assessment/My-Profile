@@ -1,11 +1,12 @@
 body {
- background-color: black;
+ background-color: #D8BFD8;
 }
-.header {
- padding: 40px;
- text-align: centre;
- background: #FFF0F5;
-}
+header {
+  background-color: #EE82EE;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
 h1 {
  color: white;
 }
