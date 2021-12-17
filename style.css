@@ -12,21 +12,9 @@ h1 {
  text-align: centre;
  color: white;
 }
-h2 {
- text-align: centre; 
- color: white;
-}
 h3 {
   text-align: centre;
   color: white;
-}
-h4 {
- color: white;
- text-align: centre;
-}
-p {
- color: white;
- text-align: centre;
 }
 h3.round3 {
   border: 2px solid #87CEEB;
