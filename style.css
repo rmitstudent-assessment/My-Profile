@@ -1,10 +1,16 @@
 body {
  background-color: #4682B4;
 }
-.header {
- padding: 40px;
- text-align: centre;
- background: #87CEEB;
+
+header {
+  background-color: #87CEEB;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+h1 {
+ color: white;
 }
 h1 {
  color: white;
