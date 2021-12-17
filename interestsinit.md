@@ -1,4 +1,9 @@
-<link rel="stylesheet" href="1style.css">
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet" href="1style.css">
+</head>
+<body>
 
 <h1>Interests In IT</h1>
 
