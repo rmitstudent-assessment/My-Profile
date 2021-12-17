@@ -36,14 +36,13 @@ li a {
  display: block;
  color: white;
  text-align: centre;
- width:300px;
  padding: 14px 16px;
  text-decoration: none;
 }
 li a:hover {
  background-color: #696969;
 }
-* {
+{
   box-sizing: border-box;
 }
 
