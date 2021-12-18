@@ -1,7 +1,8 @@
 <html>
 <head>
  <link rel="stylesheet" href="2style.css">
-<div>
+<body>
+ <div>
  <ul>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
@@ -10,7 +11,7 @@
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/projectidea">Project Idea</a></li>
 </ul>
 </div>
- <body>
+ </body>
  
  <header>
 <h1>Ideal Job</h1>
