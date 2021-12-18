@@ -1,9 +1,53 @@
 <html>
 <head>
- <link rel="stylesheet" href="1styles.css">
-</head>
-<body>
- <nav>
+<style>
+ body {
+ background-color: #D8BFD8;
+}
+header {
+  background-color: #EE82EE;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+body {
+ color: white;
+ }
+
+ h1 {
+ color: white;
+}
+h3 {
+ color: white;
+}
+p {
+ color: white;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+ </style>
+  <nav>
 <ul>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
@@ -12,7 +56,8 @@
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/projectidea">Project Idea</a></li>
 </ul>
  </nav>
- </body>
+</head>
+<body>
  <header>
 <h1>Interests in IT</h1>
              </header>
