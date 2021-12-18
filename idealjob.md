@@ -23,7 +23,7 @@
 
 1. The job maintains strong linkages to IT, which is essential in keeping my technical knowledge and skillset relevant.
 2. The position is managerial and, as such, compliments my natural leadership characteristics.
-3. Working for a large organisation, such as one of the big five banks of Australia, has several benefits; most important to me is exposure gained from working for an institute that is heavily reliant on quick and secure information systems practices.
+3. Working for a large organisation, such as one of the big five banks of Australia, has several benefits; most important to me is exposure gained from working for an institution that is heavily reliant on quick and secure information systems practices.
 
 The role of the service delivery manager is a leadership position focusing heavily on liaisons between departments. Internally, the SDM is responsible for the HR of their team and providing overall governance to empower them to complete tasks. Additionally, the role focuses on managing relationships between their team, Public Cloud Foundational Services, and the Tenant Application team. This ensures all services are maintained and administered quickly and efficiently through appropriate change management processes. The SDM is also required to foresee and manage the rollout of any future projects of interest to their team.</p>
 
