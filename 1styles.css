@@ -7,16 +7,14 @@ header {
   text-align: center;
   font-size: 35px;
   color: white;
-h1 {
+body {
  color: white;
-}
-h2 {
+ }
+
+ h1 {
  color: white;
 }
 h3 {
- color: white;
-}
-h4 {
  color: white;
 }
 p {
