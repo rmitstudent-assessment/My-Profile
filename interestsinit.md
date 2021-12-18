@@ -12,6 +12,7 @@
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/projectidea">Project Idea</a></li>
 </ul>
  </nav>
+ </body>
  <header>
 <h1>Interests in IT</h1>
              </header>
