@@ -1,20 +1,18 @@
 <html>
 <head>
- <title>Interests in IT</title>
- <link rel="stylesheet" href="1styles.css">
+ <link rel="stylesheet" href="1style.css">
 </head>
 <body>
-
- <ul>
- <li><a class="active" href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
+<ul>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/idealjob">Ideal Job</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/personalprofile">Personal Profile</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/projectidea">Project Idea</a></li>
 </ul>
- 
+
  <header>
-<h1>Interests In IT</h1>
+<h1>Interests in IT</h1>
              </header>
 
 <h3>What is you interest in IT? When did your interest start?</h3>
