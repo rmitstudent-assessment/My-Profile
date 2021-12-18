@@ -3,6 +3,7 @@
  <link rel="stylesheet" href="1styles.css">
 </head>
 <body>
+ <nav>
 <ul>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
@@ -10,7 +11,7 @@
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/personalprofile">Personal Profile</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/projectidea">Project Idea</a></li>
 </ul>
-
+ </nav>
  <header>
 <h1>Interests in IT</h1>
              </header>
