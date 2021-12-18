@@ -5,9 +5,9 @@
  <link rel="stylesheet" href="1styles.css">
 </head>
 <body>
- 
+
  <ul>
- <li><a href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
+ <li><a class="active" href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/idealjob">Ideal Job</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/personalprofile">Personal Profile</a></li>
