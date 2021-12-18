@@ -1,9 +1,6 @@
 <html>
 <head>
  <link rel="stylesheet" href="2style.css">
-</head>
- <head>
- <div class="home">
 <ul>
  <li class="home"><a rhref="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
  <li class="Interests in IT"><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
