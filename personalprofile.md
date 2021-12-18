@@ -35,5 +35,7 @@
   <div class="desc">Results of Big Five Personality Test</div>
 </div>
           
+ <h3>What do the results of these tests mean to you?</h3>
+<p>The three tests conducted in this paper each hold their unique value. The first assessment I took was the Myers-Briggs assessment, in which I was able to identify a lot of my characteristics in the assessment results. This quiz highlighted my personality strengths and almost solidified who I am in writing. However, this assessment lacked understanding of how best I can apply myself in a team environment. The second test I took focused on learning styles. My results indicated that I was an auditory closely followed by a tactile learner. I thought about these results the most out of all the quizzes as I don't think I am an auditory learner; I would be more inclined to believe I am tactile. As a positive, this got me exploring different concepts and methods for the two learning styles. I have found a few techniques that work for me from that research. The final test that I took was the Big Five Personality Assessment. This assessment was similar to that of the Myers-Briggs quiz. The results of this test gave me another perspective of myself. Previously in my work life, I have taken a number of these quizzes, and I have learned more about myself each time. Knowing who you are and how you work can identify the areas you can improve. It is an essential skill to work on yourself constantly, and these tests are a good starting point on that journey.</p>
 
 
