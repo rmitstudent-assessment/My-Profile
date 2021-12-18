@@ -1,53 +1,9 @@
 <html>
 <head>
-<style>
- body {
- background-color: #D8BFD8;
-}
-header {
-  background-color: #EE82EE;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
-body {
- color: white;
- }
-
- h1 {
- color: white;
-}
-h3 {
- color: white;
-}
-p {
- color: white;
-}
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover {
-  background-color: #111;
-}
- </style>
-  <nav>
+ <link rel="stylesheet" href="1styles.css">
+</head>
+<body>
+ <nav>
 <ul>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
@@ -56,11 +12,11 @@ li a:hover {
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/projectidea">Project Idea</a></li>
 </ul>
  </nav>
-</head>
-<body>
+ </body>
  <header>
 <h1>Interests in IT</h1>
              </header>
+
 
 <h3>What is you interest in IT? When did your interest start?</h3>
 <p>My interest in IT started throughout my career within the Australian Defence Force. I was initially employed as a radio operator, whereby my trade was operating analogue radios. During this period, the technology of the in-service radio transitioned from analogue to digital. To stay relevant in my profession, I quickly started growing my fundamental IT theoretical knowledge and practical skills. My skills deepened at the height of my ADF career as I began building and managing ad-hoc networks, primarily Linux based, and providing basic cyber advice in fields like signature reduction. Furthermore, I was responsible for the overall system and equipment governance and training in areas where I was deemed a subject matter expert. Leaving the ADF raised many questions about what was next, and I found myself drawn to continuing on the path of IT. I am now happily employed as an SFIA level 3, IT administrator. Years of on-the-job training to develop solutions to complex problems have evolved a specific passion of mine, anonymity in a modern world where everything is moving online. For example, my home cameras run on a Raspberry Pi to control where the data is sent, removing the need for a third party to store my data. </p>
