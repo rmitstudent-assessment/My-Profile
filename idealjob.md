@@ -35,5 +35,4 @@ The role of the service delivery manager is a leadership position focusing heavi
 
 <h3>A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those that you have now</h3>
 <p>To achieve my dream goal as an SDM for the Commonwealth Bank of Australia, I can do several things now to ensure this is possible in the future. Firstly, I can continue my ITIL training and complete the courses required to meet the ITIL managing professional stream. Obtaining this will provide me with the knowledge, skills and certificates to become competitive when applying for an SDM role. Secondly, I will need exposure or experience in fulfilling the roles of an SDM. My employer is aware of my goal and has empowered me to work closely with my SDM in a mentorship capacity. However, if I can't transition to an SDM within my team in the future, it would be beneficial to leave and apply for a junior SDM role within another organisation. Finally, continuing learning and taking opportunities to go on courses is vital to enhancing my IT knowledge and skills.</p>
- </body>
- </html>
+
