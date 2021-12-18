@@ -3,11 +3,11 @@
  <link rel="stylesheet" href="2style.css">
 <div>
  <ul>
- <li class="home"><a rhref="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
- <li class="Interests in IT"><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
- <li class="Ideal Job"><a href="https://rmitstudent-assessment.github.io/My-Profile/idealjob">Ideal Job</a></li>
- <li class="Personal Profile"><a href="https://rmitstudent-assessment.github.io/My-Profile/personalprofile">Personal Profile</a></li>
- <li class="Project Idea"><a href="https://rmitstudent-assessment.github.io/My-Profile/projectidea">Project Idea</a></li>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/idealjob">Ideal Job</a></li>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/personalprofile">Personal Profile</a></li>
+ <li><a href="https://rmitstudent-assessment.github.io/My-Profile/projectidea">Project Idea</a></li>
 </ul>
 </div>
  <body>
