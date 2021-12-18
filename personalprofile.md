@@ -18,21 +18,21 @@
   <a target="_blank" href="Myers-Briggs Results Snapshot.PNG">
     <img src="Myers-Briggs Results Snapshot.PNG" alt="https://github.com/rmitstudent-assessment/My-Profile/blob/8fa03387bfa5c6ebfba097b5ded66a301fb3c0a5/Myers-Briggs%20Results%20Snapshot.PNG" width="300" height="200">
   </a>
-  <div class="desc">Results of Myers-Briggs Test</div>
+  <div class="desc">Results of Myers-Briggs Test. Click to enlarge</div>
 </div>
 
  <div class="gallery">
   <a target="_blank" href="Learning Style Snapshot.PNG">
     <img src="Learning Style Snapshot.PNG" alt="https://github.com/rmitstudent-assessment/My-Profile/blob/8fa03387bfa5c6ebfba097b5ded66a301fb3c0a5/Learning%20Style%20Snapshot.PNG" width="300" height="200">
   </a>
-  <div class="desc">Results of Learning Style Test</div>
+  <div class="desc">Results of Learning Style Test. Click to enlarge</div>
 </div>
 
  <div class="gallery">
   <a target="_blank" href="big5.PNG">
     <img src="big5.PNG" alt="https://github.com/rmitstudent-assessment/My-Profile/blob/8fa03387bfa5c6ebfba097b5ded66a301fb3c0a5/big5.PNG" width="300" height="200">
   </a>
-  <div class="desc">Results of Big Five Personality Test</div>
+  <div class="desc">Results of Big Five Personality Test. Click to enlarge</div>
 </div>
           
  <h3>What do the results of these tests mean to you?</h3>
