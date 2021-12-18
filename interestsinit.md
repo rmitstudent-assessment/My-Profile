@@ -5,6 +5,7 @@
  <link rel="stylesheet" href="1styles.css">
 </head>
 <body>
+ 
  <ul>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/">Home</a></li>
  <li><a href="https://rmitstudent-assessment.github.io/My-Profile/interestsinit">Interests in IT</a></li>
@@ -29,3 +30,6 @@
 
 <h3>What do you expect to learn in your studies?</h3>
 <p>Throughout this course, I hope to learn more about the overall aspects of IT. It is the modules that cover industry terminology, career paths and understanding the different fields within IT that are of most importance to me. Furthermore, I hope that this course will help me baseline some of my informal Army training and round it off with industry best practices, terms and cement my skills and knowledge.</p>
+ 
+ </body>
+ </html>
