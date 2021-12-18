@@ -10,12 +10,17 @@ header {
 }
 h1 {
  text-align: centre;
+}
+h1 {
  color: white;
 }
 h3 {
   text-align: centre;
+}
+h3 {
   color: white;
 }
+ 
 h3.round3 {
   border: 2px solid #87CEEB;
   border-radius: 12px;
