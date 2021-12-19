@@ -48,7 +48,7 @@ div.gallery {
   margin: 5px important; 
   border: 1px solid #ccc important;
   float: left;
-  width: 180px;
+  width: 250px important;
 }
 
 div.gallery:hover {
@@ -56,7 +56,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 150% important;
+  width: 100% important;
   height: auto important;
 }
 
