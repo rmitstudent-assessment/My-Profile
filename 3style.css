@@ -21,14 +21,6 @@ p {
  color: white !important;
 }
 
-* {
-  box-sizing: border-box !important;
-}
-
-.box {
- height: 200px !important:
-}
-
 .img-container {
   float: left !important;
   width: 33.33% !important;
