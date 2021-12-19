@@ -9,11 +9,11 @@ header {
   color: white;
 }
 h1 {
- text-align: centre;
+ text-align: centre important;
 color: white;
 }
 h3 {
-  text-align: centre;
+  text-align: centre important;
  color: white;
 }
  
