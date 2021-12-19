@@ -3,7 +3,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: #556B2F;
+  color: #556B2F important;
 }
 body {
  background-color: #8FBC8F !important;
