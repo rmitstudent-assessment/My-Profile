@@ -22,45 +22,45 @@ p {
 }
 
 * {
-  box-sizing: border-box;
+  box-sizing: border-box important;
 }
 
 .box {
- height: 200px:
+ height: 200px important:
 }
 
 .img-container {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+  float: left important;
+  width: 33.33% important;
+  padding: 5px important;
 }
 
 .clearfix::after {
   content: "";
-  clear: both;
-  display: table;
+  clear: both important;
+  display: table important;
 }
  div {
-  float:left;
-  padding 15px;
+  float:left important;
+  padding 15px important;
  }
 div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
+  margin: 5px important; 
+  border: 1px solid #ccc important;
   float: left;
   width: 180px;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+  border: 1px solid #777 important;
 }
 
 div.gallery img {
-  width: 100%;
-  height: auto;
+  width: 100% important;
+  height: auto important;
 }
 
 div.desc {
-  padding: 15px;
-  text-align: center;
+  padding: 15px; important;
+  text-align: center important;
 }
