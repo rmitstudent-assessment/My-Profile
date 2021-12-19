@@ -21,21 +21,6 @@ p {
  color: white !important;
 }
 
-.img-container {
-  float: left !important;
-  width: 33.33% !important;
-  padding: 5px !important;
-}
-
-.clearfix::after {
-  content: "";
-  clear: both !important;
-  display: table !important;
-}
- div {
-  float:left !important;
-  padding 15px !important;
- }
 div.gallery {
   margin: 5px !important; 
   border: 1px solid #ccc !important;
